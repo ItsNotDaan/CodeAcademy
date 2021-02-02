@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
-//#include <dos.h>   //for delay()
+//#include <dos.h>   //for delay() Hallo Hallo
 
 int main(){
   //Rock paper scissors
